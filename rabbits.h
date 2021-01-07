@@ -2,7 +2,7 @@
 #ifndef movingObject_h
 #define movingObject_h
 #include "movingObject.h"
-class Rabbit :public MovingObject{
+class Rabbit {//:public MovingObject{
     private:
     int number;
     bool gender;
