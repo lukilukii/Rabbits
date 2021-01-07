@@ -4,7 +4,6 @@
 
 
 int main(){
-    std::cout<<"Hello"<<std::endl;
-    Map mapa(32,32);
+    Map mapa(int width = 32,int height = 32);
 
 }
